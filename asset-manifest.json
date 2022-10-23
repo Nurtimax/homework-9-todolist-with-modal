@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homework-9-todolist-with-modal/static/css/main.6f846899.css",
+    "main.js": "/homework-9-todolist-with-modal/static/js/main.e160cf66.js",
+    "index.html": "/homework-9-todolist-with-modal/index.html",
+    "main.6f846899.css.map": "/homework-9-todolist-with-modal/static/css/main.6f846899.css.map",
+    "main.e160cf66.js.map": "/homework-9-todolist-with-modal/static/js/main.e160cf66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f846899.css",
+    "static/js/main.e160cf66.js"
+  ]
+}
